@@ -1,0 +1,9 @@
+>-WINDOWS-<
+for windows please go to Python.org and then download
+in the installer there is a checkbox saying
+>-----------------------------------<
+ |                                 |
+ |      add python.exe to path     |
+ |                                 |
+>-----------------------------------<
+Check that its so you can run pip(local Pypi(Python package index))
